@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @JoneNascimento
-- 👀 I’m interested in ...👨‍🎓 Sobr
+👨‍🎓 Sobre mim!!
 
 👨‍🎓 Engenheiro Eletricista apaixonado por números, inovação e dados;
 
@@ -72,9 +71,7 @@
 ![image](https://user-images.githubusercontent.com/94656905/176740020-4f1dd753-3cd8-492c-9f41-6b50cfd4fc06.png)
 ![image](https://user-images.githubusercontent.com/94656905/176740059-c743cf59-0eaa-4d0c-88a0-918bbf43e051.png)
 ![image](https://user-images.githubusercontent.com/94656905/176740091-de143437-0ac3-4eee-9444-50a8ed355cd2.png)
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+
 
 <!---
 JoneNascimento/JoneNascimento is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

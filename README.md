@@ -1,6 +1,6 @@
-👨‍🎓 Sobre mim!!
+👨‍🎓   Sobre mim!!
 
-👨‍🎓 Engenheiro Eletricista apaixonado por números, inovação e dados;
+👨‍🎓   Engenheiro Eletricista apaixonado por números, inovação e dados;
 
 🤔   Explorando novas tecnologias e soluções para análise de dados;
 

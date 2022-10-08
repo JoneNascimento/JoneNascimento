@@ -1,8 +1,8 @@
-👨‍🎓   Sobre mim!!
+👨‍🎓   Saiba um pouco mais sobre mim!!
 
 👨‍🎓   Engenheiro Eletricista apaixonado por números, inovação e dados;
 
-🤔   Explorando novas tecnologias e soluções para análise de dados;
+🤔   Em busca de novas tecnologias e soluções para análise de dados;
 
 🎓   Estudando Data Science na [FLAI](https://www.flai.com.br/dds/) ;
 

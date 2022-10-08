@@ -72,7 +72,10 @@
 ![image](https://user-images.githubusercontent.com/94656905/176740059-c743cf59-0eaa-4d0c-88a0-918bbf43e051.png)
 ![image](https://user-images.githubusercontent.com/94656905/176740091-de143437-0ac3-4eee-9444-50a8ed355cd2.png)
 
+🌎 Onde me encontrar:
 
+https://www.linkedin.com/in/jonenascimento/
+![image](https://www.flaticon.com/br/icone-gratis/linkedin_174857.png)
 <!---
 JoneNascimento/JoneNascimento is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

@@ -79,7 +79,7 @@
 [![GitHub jonenascimento]( https://img.shields.io/github/followers/VanessaSwerts?label=follow&style=social)](https://github.com/JoneNascimento)
 
 <a href="https://github.com/JoneNascimento">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VanessaSwerts&theme=dracula&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JoneNascimento&theme=dracula&show_icons=true" />
 </a>
 
 <!---

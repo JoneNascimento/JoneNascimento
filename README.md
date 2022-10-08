@@ -1,3 +1,5 @@
+![](https://komarev.com/ghpvc/?username=JoneNascimento&color=006bed)
+
 👨‍🎓   Saiba um pouco mais sobre mim!!
 
 👨‍🎓   Engenheiro Eletricista apaixonado por números, inovação e dados;

@@ -77,6 +77,11 @@
 [![Linkedin: jonenascimento](https://img.shields.io/badge/-jonenascimento-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jonenascimento/)](https://www.linkedin.com/in/jonenascimento/)
 [![Gmail Badge](https://img.shields.io/badge/-jonequeiroz@yahoo.com.br-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jonequeiroz@yahoo.com.br)](mailto:jonequeiroz@yahoo.com.br)
 [![GitHub jonenascimento]( https://img.shields.io/github/followers/VanessaSwerts?label=follow&style=social)](https://github.com/JoneNascimento)
+
+<a href="https://github.com/JoneNascimento">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VanessaSwerts&theme=dracula&show_icons=true" />
+</a>
+
 <!---
 JoneNascimento/JoneNascimento is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

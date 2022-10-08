@@ -75,7 +75,7 @@
 🌎 Onde me encontrar:
 
 [![Linkedin: jonenascimento](https://img.shields.io/badge/-jonenascimento-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jonenascimento/)](https://www.linkedin.com/in/jonenascimento/)
-[![Gmail Badge](https://img.shields.io/badge/-seuemail@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SEU-EMAIL)](mailto:SEU-EMAIL)
+[![Gmail Badge](https://img.shields.io/badge/-jonequeiroz@yahoo.com.br-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jonequeiroz@yahoo.com.br)](mailto:jonequeiroz@yahoo.com.br)
 [![GitHub SEU NOME]( https://img.shields.io/github/followers/VanessaSwerts?label=follow&style=social)](LINK-DO-SEU-GITHUB)
 <!---
 JoneNascimento/JoneNascimento is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
